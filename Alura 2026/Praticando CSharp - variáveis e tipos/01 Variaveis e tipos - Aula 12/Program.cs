@@ -10,5 +10,9 @@ Saída esperada:
 
 A média das notas é: 8,2  */
 
-float media = (7.2f + 8.3f + 9.1f) / 3.0f;
+float nota1 = 7.2f;
+float nota2 = 8.3f;
+float nota3 = 9.1f;
+float media = (nota1 + nota2 + nota3) / 3.0f;
+//float media = (7.2f + 8.3f + 9.1f) / 3.0f;
 Console.WriteLine($"A média das notas é: {media}");

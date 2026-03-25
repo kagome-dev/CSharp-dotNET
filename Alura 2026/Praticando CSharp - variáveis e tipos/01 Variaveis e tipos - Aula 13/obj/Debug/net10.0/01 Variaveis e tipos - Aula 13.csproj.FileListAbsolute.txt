@@ -1,0 +1,15 @@
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\bin\Debug\net10.0\01 Variaveis e tipos - Aula 13.exe
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\bin\Debug\net10.0\01 Variaveis e tipos - Aula 13.deps.json
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\bin\Debug\net10.0\01 Variaveis e tipos - Aula 13.runtimeconfig.json
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\bin\Debug\net10.0\01 Variaveis e tipos - Aula 13.dll
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\bin\Debug\net10.0\01 Variaveis e tipos - Aula 13.pdb
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\obj\Debug\net10.0\01 Variaveis e tipos - Aula 13.GeneratedMSBuildEditorConfig.editorconfig
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\obj\Debug\net10.0\01 Variaveis e tipos - Aula 13.AssemblyInfoInputs.cache
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\obj\Debug\net10.0\01 Variaveis e tipos - Aula 13.AssemblyInfo.cs
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\obj\Debug\net10.0\01 Variaveis e tipos - Aula 13.csproj.CoreCompileInputs.cache
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\obj\Debug\net10.0\01 Variaveis e tipos - Aula 13.sourcelink.json
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\obj\Debug\net10.0\01 Variaveis e tipos - Aula 13.dll
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\obj\Debug\net10.0\refint\01 Variaveis e tipos - Aula 13.dll
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\obj\Debug\net10.0\01 Variaveis e tipos - Aula 13.pdb
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\obj\Debug\net10.0\01 Variaveis e tipos - Aula 13.genruntimeconfig.cache
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variaveis e tipos - Aula 13\obj\Debug\net10.0\ref\01 Variaveis e tipos - Aula 13.dll
