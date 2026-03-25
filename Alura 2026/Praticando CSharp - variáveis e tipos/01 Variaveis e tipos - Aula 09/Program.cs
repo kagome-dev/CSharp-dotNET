@@ -16,6 +16,5 @@ Saída esperada:
 10 milhas equivalem a 16,0934 quilômetros. */
 
 double valorMilhas = 12;
-double valorKM = 1.60934;
-double resultado = valorMilhas * valorKM;
-Console.WriteLine(valorMilhas + " milhas equivalem a " + resultado + " quilômetros.");
+double valorKM = valorMilhas * 1.60934;
+Console.WriteLine(valorMilhas + " milhas equivalem a " + valorKM + " quilômetros.");
