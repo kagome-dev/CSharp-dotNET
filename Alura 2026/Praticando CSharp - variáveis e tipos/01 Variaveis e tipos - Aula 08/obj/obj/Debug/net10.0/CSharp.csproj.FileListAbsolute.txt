@@ -1,0 +1,4 @@
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variáveis e tipos - Aula 08\obj\obj\Debug\net10.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variáveis e tipos - Aula 08\obj\obj\Debug\net10.0\CSharp.AssemblyInfoInputs.cache
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variáveis e tipos - Aula 08\obj\obj\Debug\net10.0\CSharp.AssemblyInfo.cs
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - variáveis e tipos\01 Variáveis e tipos - Aula 08\obj\obj\Debug\net10.0\CSharp.csproj.CoreCompileInputs.cache
