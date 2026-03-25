@@ -18,4 +18,4 @@ A área do terreno é: 213,15 metros quadrados. */
 double largura = 10.5;
 double comprimento = 20.3;
 double area = largura * comprimento;
-Console.WriteLine("A área do terreno é: " + area + " metros quadrados.");
+Console.WriteLine($"A área do terreno é: {area} metros quadrados.");
