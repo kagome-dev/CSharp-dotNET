@@ -1,0 +1,15 @@
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\bin\Debug\net10.0\Parte 01 - Aula 11.exe
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\bin\Debug\net10.0\Parte 01 - Aula 11.deps.json
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\bin\Debug\net10.0\Parte 01 - Aula 11.runtimeconfig.json
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\bin\Debug\net10.0\Parte 01 - Aula 11.dll
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\bin\Debug\net10.0\Parte 01 - Aula 11.pdb
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\obj\Debug\net10.0\Parte 01 - Aula 11.GeneratedMSBuildEditorConfig.editorconfig
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\obj\Debug\net10.0\Parte 01 - Aula 11.AssemblyInfoInputs.cache
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\obj\Debug\net10.0\Parte 01 - Aula 11.AssemblyInfo.cs
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\obj\Debug\net10.0\Parte 01 - Aula 11.csproj.CoreCompileInputs.cache
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\obj\Debug\net10.0\Parte 01 - Aula 11.sourcelink.json
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\obj\Debug\net10.0\Parte 01 - Aula 11.dll
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\obj\Debug\net10.0\refint\Parte 01 - Aula 11.dll
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\obj\Debug\net10.0\Parte 01 - Aula 11.pdb
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\obj\Debug\net10.0\Parte 01 - Aula 11.genruntimeconfig.cache
+V:\Bruno Paschoal\Outros\CSharp\Alura 2026\Praticando CSharp - condicionais com if else e switch case\Parte 01 - Aula 11\obj\Debug\net10.0\ref\Parte 01 - Aula 11.dll
