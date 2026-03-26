@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Parte 02 - Aula 06/1.0.0": {
+        "runtime": {
+          "Parte 02 - Aula 06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parte 02 - Aula 06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
