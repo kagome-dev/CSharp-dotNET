@@ -26,3 +26,35 @@ O aluno com a nota 7,4 está indo muito bem!
 E aí? Como você resolveria esse problema? Qual tipo de laço de repetição você usaria para percorrer a lista de alunos? 
 Justifique sua escolha e faça o código de resolução, explicando os motivos de usar o laço escolhido no contexto desse problema. */
 
+// Primeira versão:
+List<double> notas= new List<double> {8.5, 6.2, 9.1, 5.8, 7.4};
+
+foreach(double nota in notas) {
+    if(nota >= 7.0) {
+        Console.WriteLine($"O aluno com a nota {nota.ToString("F1")} está indo muito bem!");
+    } else {
+        Console.WriteLine($"O aluno com a nota {nota.ToString("F1")} está abaixo da média!");
+    }
+}
+
+// Segunda versão:
+List<double> notas2 = new List<double> {
+    8.5,
+    6.2,
+    9.1,
+    5.8,
+    7.4
+};
+ 
+double mediaCorte = 7.0;
+ 
+foreach (var nota2 in notas2) {
+    if (nota2 < mediaCorte) {
+        Console.WriteLine($"O aluno com a nota {nota2} está abaixo da média!");
+    }
+ 
+    else {
+        Console.WriteLine($"O aluno com a nota {nota2} está indo muito bem!");
+    }
+}
+
