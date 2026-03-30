@@ -1,0 +1,15 @@
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/bin/Debug/net10.0/Parte 02 - Aula 04
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/bin/Debug/net10.0/Parte 02 - Aula 04.deps.json
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/bin/Debug/net10.0/Parte 02 - Aula 04.runtimeconfig.json
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/bin/Debug/net10.0/Parte 02 - Aula 04.dll
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/bin/Debug/net10.0/Parte 02 - Aula 04.pdb
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/obj/Debug/net10.0/Parte 02 - Aula 04.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/obj/Debug/net10.0/Parte 02 - Aula 04.AssemblyInfoInputs.cache
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/obj/Debug/net10.0/Parte 02 - Aula 04.AssemblyInfo.cs
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/obj/Debug/net10.0/Parte 02 - Aula 04.csproj.CoreCompileInputs.cache
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/obj/Debug/net10.0/Parte 02 - Aula 04.sourcelink.json
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/obj/Debug/net10.0/Parte 02 - Aula 04.dll
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/obj/Debug/net10.0/refint/Parte 02 - Aula 04.dll
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/obj/Debug/net10.0/Parte 02 - Aula 04.pdb
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/obj/Debug/net10.0/Parte 02 - Aula 04.genruntimeconfig.cache
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/05 - Praticando CSharp - laços de repetição/Parte 02 - Aula 04/obj/Debug/net10.0/ref/Parte 02 - Aula 04.dll
