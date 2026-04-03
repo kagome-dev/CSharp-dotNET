@@ -1,0 +1,15 @@
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/bin/Debug/net10.0/Parte 04 Aula 02
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/bin/Debug/net10.0/Parte 04 Aula 02.deps.json
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/bin/Debug/net10.0/Parte 04 Aula 02.runtimeconfig.json
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/bin/Debug/net10.0/Parte 04 Aula 02.dll
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/bin/Debug/net10.0/Parte 04 Aula 02.pdb
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/obj/Debug/net10.0/Parte 04 Aula 02.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/obj/Debug/net10.0/Parte 04 Aula 02.AssemblyInfoInputs.cache
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/obj/Debug/net10.0/Parte 04 Aula 02.AssemblyInfo.cs
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/obj/Debug/net10.0/Parte 04 Aula 02.csproj.CoreCompileInputs.cache
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/obj/Debug/net10.0/Parte 04 Aula 02.sourcelink.json
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/obj/Debug/net10.0/Parte 04 Aula 02.dll
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/obj/Debug/net10.0/refint/Parte 04 Aula 02.dll
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/obj/Debug/net10.0/Parte 04 Aula 02.pdb
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/obj/Debug/net10.0/Parte 04 Aula 02.genruntimeconfig.cache
+/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 04 Aula 02/obj/Debug/net10.0/ref/Parte 04 Aula 02.dll
