@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 03 Aula 04/Parte 03 Aula 04.csproj",
-      "projectName": "Parte 03 Aula 04",
-      "projectPath": "/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 03 Aula 04/Parte 03 Aula 04.csproj",
+      "projectUniqueName": "/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 03 Aula 07/Parte 03 Aula 07.csproj",
+      "projectName": "Parte 03 Aula 07",
+      "projectPath": "/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 03 Aula 07/Parte 03 Aula 07.csproj",
       "packagesPath": "/home/pbpaschoal/.nuget/packages/",
-      "outputPath": "/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 03 Aula 04/obj/",
+      "outputPath": "/home/pbpaschoal/Documentos/CSharp/Estudos 2026/Alura 2026/06 - C# - Aplicando a Orientação a Objetos/Parte 03 Aula 07/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pbpaschoal/.nuget/NuGet/NuGet.Config"
