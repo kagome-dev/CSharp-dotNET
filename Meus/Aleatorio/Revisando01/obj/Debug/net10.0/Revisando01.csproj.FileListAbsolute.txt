@@ -1,0 +1,15 @@
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/bin/Debug/net10.0/Revisando01
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/bin/Debug/net10.0/Revisando01.deps.json
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/bin/Debug/net10.0/Revisando01.runtimeconfig.json
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/bin/Debug/net10.0/Revisando01.dll
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/bin/Debug/net10.0/Revisando01.pdb
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/obj/Debug/net10.0/Revisando01.GeneratedMSBuildEditorConfig.editorconfig
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/obj/Debug/net10.0/Revisando01.AssemblyInfoInputs.cache
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/obj/Debug/net10.0/Revisando01.AssemblyInfo.cs
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/obj/Debug/net10.0/Revisando01.csproj.CoreCompileInputs.cache
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/obj/Debug/net10.0/Revisando01.sourcelink.json
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/obj/Debug/net10.0/Revisando01.dll
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/obj/Debug/net10.0/refint/Revisando01.dll
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/obj/Debug/net10.0/Revisando01.pdb
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/obj/Debug/net10.0/Revisando01.genruntimeconfig.cache
+/media/pbpaschoals/HD_SECUNDARIO/PBPaschoal/DEV/CSharp/Estudos 2026/Meus/Aleatorio/Revisando01/obj/Debug/net10.0/ref/Revisando01.dll
