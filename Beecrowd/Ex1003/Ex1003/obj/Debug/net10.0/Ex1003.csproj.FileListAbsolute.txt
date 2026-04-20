@@ -1,0 +1,15 @@
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\bin\Debug\net10.0\Ex1003.exe
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\bin\Debug\net10.0\Ex1003.deps.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\bin\Debug\net10.0\Ex1003.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\bin\Debug\net10.0\Ex1003.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\bin\Debug\net10.0\Ex1003.pdb
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\obj\Debug\net10.0\Ex1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\obj\Debug\net10.0\Ex1003.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\obj\Debug\net10.0\Ex1003.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\obj\Debug\net10.0\Ex1003.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\obj\Debug\net10.0\Ex1003.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\obj\Debug\net10.0\Ex1003.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\obj\Debug\net10.0\refint\Ex1003.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\obj\Debug\net10.0\Ex1003.pdb
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\obj\Debug\net10.0\Ex1003.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1003\Ex1003\obj\Debug\net10.0\ref\Ex1003.dll
