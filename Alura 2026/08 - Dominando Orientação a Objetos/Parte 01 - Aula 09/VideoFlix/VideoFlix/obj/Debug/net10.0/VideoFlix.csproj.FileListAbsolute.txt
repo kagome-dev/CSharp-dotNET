@@ -1,0 +1,15 @@
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\bin\Debug\net10.0\VideoFlix.exe
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\bin\Debug\net10.0\VideoFlix.deps.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\bin\Debug\net10.0\VideoFlix.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\bin\Debug\net10.0\VideoFlix.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\bin\Debug\net10.0\VideoFlix.pdb
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\obj\Debug\net10.0\VideoFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\obj\Debug\net10.0\VideoFlix.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\obj\Debug\net10.0\VideoFlix.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\obj\Debug\net10.0\VideoFlix.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\obj\Debug\net10.0\VideoFlix.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\obj\Debug\net10.0\VideoFlix.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\obj\Debug\net10.0\refint\VideoFlix.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\obj\Debug\net10.0\VideoFlix.pdb
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\obj\Debug\net10.0\VideoFlix.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 09\VideoFlix\VideoFlix\obj\Debug\net10.0\ref\VideoFlix.dll

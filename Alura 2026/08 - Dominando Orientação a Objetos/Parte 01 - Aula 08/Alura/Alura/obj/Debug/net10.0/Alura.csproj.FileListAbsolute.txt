@@ -1,0 +1,15 @@
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\bin\Debug\net10.0\Alura.exe
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\bin\Debug\net10.0\Alura.deps.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\bin\Debug\net10.0\Alura.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\bin\Debug\net10.0\Alura.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\bin\Debug\net10.0\Alura.pdb
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\obj\Debug\net10.0\Alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\obj\Debug\net10.0\Alura.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\obj\Debug\net10.0\Alura.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\obj\Debug\net10.0\Alura.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\obj\Debug\net10.0\Alura.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\obj\Debug\net10.0\Alura.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\obj\Debug\net10.0\refint\Alura.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\obj\Debug\net10.0\Alura.pdb
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\obj\Debug\net10.0\Alura.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 01 - Aula 08\Alura\Alura\obj\Debug\net10.0\ref\Alura.dll
