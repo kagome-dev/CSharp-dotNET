@@ -1,0 +1,5 @@
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 02 - Aula 08\Calculadora\Exercicio04\obj\Debug\net10.0\Exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 02 - Aula 08\Calculadora\Exercicio04\obj\Debug\net10.0\Exercicio04.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 02 - Aula 08\Calculadora\Exercicio04\obj\Debug\net10.0\Exercicio04.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 02 - Aula 08\Calculadora\Exercicio04\obj\Debug\net10.0\Exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 02 - Aula 08\Calculadora\Exercicio04\obj\Debug\net10.0\Exercicio04.sourcelink.json
