@@ -1,0 +1,20 @@
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\obj\Debug\net10.0\Exercícios do Claude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\obj\Debug\net10.0\Exercícios do Claude.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\obj\Debug\net10.0\Exercícios do Claude.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\obj\Debug\net10.0\Exercícios do Claude.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\obj\Debug\net10.0\Exercícios do Claude.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\bin\Debug\net10.0\Exercícios do Claude.exe
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\bin\Debug\net10.0\Exercícios do Claude.deps.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\bin\Debug\net10.0\Exercícios do Claude.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\bin\Debug\net10.0\Exercícios do Claude.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\bin\Debug\net10.0\Exercícios do Claude.pdb
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\obj\Debug\net10.0\Exercícios do Claude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\obj\Debug\net10.0\Exercícios do Claude.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\obj\Debug\net10.0\Exercícios do Claude.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\obj\Debug\net10.0\Exercícios do Claude.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\obj\Debug\net10.0\Exercícios do Claude.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\obj\Debug\net10.0\Exercícios do Claude.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\obj\Debug\net10.0\refint\Exercícios do Claude.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\obj\Debug\net10.0\Exercícios do Claude.pdb
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\obj\Debug\net10.0\Exercícios do Claude.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Exercícios do Claude\Exercício 02\obj\Debug\net10.0\ref\Exercícios do Claude.dll
