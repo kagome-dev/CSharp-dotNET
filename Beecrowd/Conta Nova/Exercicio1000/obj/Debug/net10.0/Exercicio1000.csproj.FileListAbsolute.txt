@@ -1,0 +1,15 @@
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\bin\Debug\net10.0\Exercicio1000.exe
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\bin\Debug\net10.0\Exercicio1000.deps.json
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\bin\Debug\net10.0\Exercicio1000.runtimeconfig.json
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\bin\Debug\net10.0\Exercicio1000.dll
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\bin\Debug\net10.0\Exercicio1000.pdb
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\obj\Debug\net10.0\Exercicio1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\obj\Debug\net10.0\Exercicio1000.AssemblyInfoInputs.cache
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\obj\Debug\net10.0\Exercicio1000.AssemblyInfo.cs
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\obj\Debug\net10.0\Exercicio1000.csproj.CoreCompileInputs.cache
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\obj\Debug\net10.0\Exercicio1000.sourcelink.json
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\obj\Debug\net10.0\Exercicio1000.dll
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\obj\Debug\net10.0\refint\Exercicio1000.dll
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\obj\Debug\net10.0\Exercicio1000.pdb
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\obj\Debug\net10.0\Exercicio1000.genruntimeconfig.cache
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1000\obj\Debug\net10.0\ref\Exercicio1000.dll
