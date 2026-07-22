@@ -1,0 +1,15 @@
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\bin\Debug\net10.0\Exercicio1009.exe
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\bin\Debug\net10.0\Exercicio1009.deps.json
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\bin\Debug\net10.0\Exercicio1009.runtimeconfig.json
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\bin\Debug\net10.0\Exercicio1009.dll
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\bin\Debug\net10.0\Exercicio1009.pdb
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\obj\Debug\net10.0\Exercicio1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\obj\Debug\net10.0\Exercicio1009.AssemblyInfoInputs.cache
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\obj\Debug\net10.0\Exercicio1009.AssemblyInfo.cs
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\obj\Debug\net10.0\Exercicio1009.csproj.CoreCompileInputs.cache
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\obj\Debug\net10.0\Exercicio1009.sourcelink.json
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\obj\Debug\net10.0\Exercicio1009.dll
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\obj\Debug\net10.0\refint\Exercicio1009.dll
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\obj\Debug\net10.0\Exercicio1009.pdb
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\obj\Debug\net10.0\Exercicio1009.genruntimeconfig.cache
+C:\Users\paulo.paschoal\Documents\GitHub\CSharp-dotNET\Beecrowd\Conta Nova\Exercicio1009\Exercicio1009\obj\Debug\net10.0\ref\Exercicio1009.dll
