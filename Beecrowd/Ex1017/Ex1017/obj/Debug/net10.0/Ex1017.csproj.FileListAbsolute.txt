@@ -1,0 +1,15 @@
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\bin\Debug\net10.0\Ex1017.exe
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\bin\Debug\net10.0\Ex1017.deps.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\bin\Debug\net10.0\Ex1017.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\bin\Debug\net10.0\Ex1017.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\bin\Debug\net10.0\Ex1017.pdb
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\obj\Debug\net10.0\Ex1017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\obj\Debug\net10.0\Ex1017.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\obj\Debug\net10.0\Ex1017.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\obj\Debug\net10.0\Ex1017.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\obj\Debug\net10.0\Ex1017.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\obj\Debug\net10.0\Ex1017.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\obj\Debug\net10.0\refint\Ex1017.dll
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\obj\Debug\net10.0\Ex1017.pdb
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\obj\Debug\net10.0\Ex1017.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Beecrowd\Ex1017\Ex1017\obj\Debug\net10.0\ref\Ex1017.dll
